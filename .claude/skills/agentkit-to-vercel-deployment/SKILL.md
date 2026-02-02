@@ -26,8 +26,16 @@ This skill captures a repeatable, reliable deployment process for OpenAI ChatKit
 ### 0) Read reference docs as needed
 
 Use progressive disclosure. Start with [references/agentkit-overview.md](references/agentkit-overview.md), then open the specific section docs only when needed:
+- [references/agents-overview.md](references/agents-overview.md)
 - [references/agent-builder.md](references/agent-builder.md)
+- [references/node-reference.md](references/node-reference.md)
+- [references/agent-builder-safety.md](references/agent-builder-safety.md)
+- [references/agent-evals.md](references/agent-evals.md)
 - [references/chatkit.md](references/chatkit.md)
+- [references/chatkit-themes.md](references/chatkit-themes.md)
+- [references/chatkit-widgets.md](references/chatkit-widgets.md)
+- [references/chatkit-actions.md](references/chatkit-actions.md)
+- [references/custom-chatkit.md](references/custom-chatkit.md)
 - [references/agents-sdk.md](references/agents-sdk.md)
 - [references/domain-allowlist.md](references/domain-allowlist.md)
 - [references/vercel-deploy.md](references/vercel-deploy.md)
@@ -35,6 +43,11 @@ Use progressive disclosure. Start with [references/agentkit-overview.md](referen
 - [references/vercel-python.md](references/vercel-python.md)
 - [references/vercel-monorepo.md](references/vercel-monorepo.md)
 - [references/vercel-build.md](references/vercel-build.md)
+- [references/chatkit-advanced-samples.md](references/chatkit-advanced-samples.md)
+- [references/agents-sdk-repo.md](references/agents-sdk-repo.md)
+- [references/open-agent-builder.md](references/open-agent-builder.md)
+- [references/awesome-agentkit-examples.md](references/awesome-agentkit-examples.md)
+- [references/thinkia-workflow.md](references/thinkia-workflow.md)
 
 ### 1) Decide deployment topology (always split UI + backend)
 
