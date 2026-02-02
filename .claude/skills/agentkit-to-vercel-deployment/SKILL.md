@@ -23,6 +23,14 @@ This skill captures a repeatable, reliable deployment process for OpenAI ChatKit
 
 ## Workflow
 
+### 0) Read reference docs as needed
+
+Use progressive disclosure. Start with [references/agentkit-overview.md](references/agentkit-overview.md), then open the specific section docs only when needed:
+- [references/agent-builder.md](references/agent-builder.md)
+- [references/chatkit.md](references/chatkit.md)
+- [references/agents-sdk.md](references/agents-sdk.md)
+- [references/domain-allowlist.md](references/domain-allowlist.md)
+
 ### 1) Decide deployment topology (always split UI + backend)
 
 Use separate Vercel projects for each app:
