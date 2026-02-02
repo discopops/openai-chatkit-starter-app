@@ -30,6 +30,11 @@ Use progressive disclosure. Start with [references/agentkit-overview.md](referen
 - [references/chatkit.md](references/chatkit.md)
 - [references/agents-sdk.md](references/agents-sdk.md)
 - [references/domain-allowlist.md](references/domain-allowlist.md)
+- [references/vercel-deploy.md](references/vercel-deploy.md)
+- [references/vercel-env.md](references/vercel-env.md)
+- [references/vercel-python.md](references/vercel-python.md)
+- [references/vercel-monorepo.md](references/vercel-monorepo.md)
+- [references/vercel-build.md](references/vercel-build.md)
 
 ### 1) Decide deployment topology (always split UI + backend)
 
